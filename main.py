@@ -8,7 +8,12 @@ import ocrmypdf
 
 filename = None
 file_path_full = None
+# ToDo Set Up Logging
 
+# ToDo Actually Comment the damn Code
+
+# ToDo Make GUI Pretty
+# ToDo Add Custom/Smart Language Selector
 
 def select_file():
     global filename
