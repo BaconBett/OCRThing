@@ -1,2 +1,0 @@
-ocrmypdf~=14.1.0
-setuptools~=65.5.1
